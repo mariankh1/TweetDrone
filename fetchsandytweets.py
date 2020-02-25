@@ -60,8 +60,8 @@ def createTrainingSet(corpusFile, targetResultFile):
 
 # Code starts here
 # This is corpus dataset
-corpusFile = "datasets/sandydataset/xaa"
+corpusFile = "datasets/sandydataset/xab"
 # This is my target file
-targetResultFile = "datasets/sandyTrueSortedPart1.csv"
+targetResultFile = "datasets/sandyTrueSortedPart2.csv"
 # Call the method
 resultFile = createTrainingSet(corpusFile, targetResultFile)
