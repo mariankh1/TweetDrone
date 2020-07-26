@@ -11,7 +11,7 @@ This repository includes the implementation of the  Social-media Driven Multi-Dr
 
 ![Diagram](diagram.png)
 
- <h1>Please side our paper </h1>
+ <h1>Please site our paper </h1>
   @article{terzitowards,
   title={Towards a Social-media Driven Multi-Drone Tasking platform},
   author={Terzi, Maria and Kolios, Panayiotis and Panayiotou, Christos and Theocharides, Theocharis}
