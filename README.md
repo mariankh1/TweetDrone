@@ -1,3 +1,4 @@
+Part of the implementation for the  Social-media Driven Multi-Drone Tasking platform 
 # TweetDrone
  <h1> Tweet Drone Framework  </h1>
 This repository includes the implementation of the  Social-media Driven Multi-Drone Tasking platform, which utilised the power of social media to optimise the way a swarm of drones monitors an area in emergency response.
