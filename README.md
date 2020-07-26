@@ -9,6 +9,7 @@ This repository includes the implementation of the  Social-media Driven Multi-Dr
 3. Defintion of tasks and identification of their type and ugency </br>
 4. Drones routing based on the task and urgency. </br>
 
+![Diagram](diagram.png)
 
  <h1>Please side our paper </h1>
   @article{terzitowards,
